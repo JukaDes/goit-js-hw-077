@@ -1,1 +1,1 @@
-# goit-js-hw-07
+# For some reason active-page for my original repository doesn't show anything, even everything is pushed and files show up correctly. And if I copy files in a new repository it works. If I delete old repository and rename new one it still works for some time, and then it stops again.
